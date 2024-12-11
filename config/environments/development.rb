@@ -60,5 +60,4 @@ Rails.application.configure do
     g.test_framework nil
   end
 
-  config.active_storage.service = :local
 end
